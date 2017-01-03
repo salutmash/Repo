@@ -1,2 +1,2 @@
 # Repo
-My Repo
+Udacity projects Repository
